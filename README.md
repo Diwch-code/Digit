@@ -1,5 +1,5 @@
-# Digit_modo
+# Digit
 ##french
-le bot pour la modération d'un serveur discord (Par la Bot Factory)
+un bot tout en un fait sur mesure pour un serveur discord (Par la Bot Factory)
 ##english
-the bot to the modération of a discord server (by the Bot Factory)
+a custom made bot all in one of a discord server (by the Bot Factory)
